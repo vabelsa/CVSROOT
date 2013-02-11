@@ -1,0 +1,4 @@
+CVSROOT
+=======
+
+practica entornos
